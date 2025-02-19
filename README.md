@@ -33,8 +33,8 @@ sudo apt install nodejs npm -y
 # Install
 
 ```
-git clone 
-cd 
+git clone https://github.com/papa-multi/silent-ping.git
+cd silent-ping
 ```
 
 ```
